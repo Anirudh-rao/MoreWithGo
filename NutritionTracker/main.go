@@ -1,4 +1,4 @@
-package nutritiontracker
+package main
 
 import "fmt"
 
